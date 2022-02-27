@@ -225,7 +225,7 @@ $ git stash pop
 $ git stash clear
 ```
 ---
-# ❤️ **GUTHUB**
+# ❤️ **GTHUB**
 ### 😻 Till now we don't have any repository where we can put our files. So we can create a repository on [Github](https://github.com).(Suppose our repository name is : Github-Repo, then you will get URL like `https://github.com/yourusername/Github-Repo.Git`)
 ### Now we will connect our projects to this repository. To do this type
 ```
